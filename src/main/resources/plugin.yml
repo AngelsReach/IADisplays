@@ -1,0 +1,4 @@
+name: IADisplays
+version: '${project.version}'
+main: com.vergilprime.iadisplays.IADisplays
+api-version: '1.20'
